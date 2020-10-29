@@ -17,6 +17,7 @@ h2{
   background-color: blue;
   color: white;
   font-size: 125%;
+  border: 1px solid black;
 }
 
 h3{
@@ -26,6 +27,7 @@ h3{
   background-color: green;
   color: white;
   font-size: 125%;
+  border: 1px solid black;
 }
 h4{
   float: right;
@@ -34,6 +36,7 @@ h4{
   background-color: red;
   color: white;
   font-size: 125%;
+  border: 1px solid black;
 }
 p {
   width: 95%;
@@ -55,7 +58,7 @@ p {
 div.new{
   background-color: gray;
   margin:10px;
-  border: 1px solid green;
+  border: 2px solid black;
 }
 
 /********** Large devices only **********/
